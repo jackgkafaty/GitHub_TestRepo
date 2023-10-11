@@ -22,7 +22,7 @@ on:
 jobs:
   analyze:
     name: Analyze
-    runs-on: 'GitHub_Jack_PowerRunner'
+    runs-on: 'Ubuntu-latest'
     timeout-minutes: ${{ (matrix.language == 'swift' && 120) || 360 }}
     permissions:
       actions: read
