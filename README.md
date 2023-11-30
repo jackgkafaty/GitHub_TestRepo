@@ -62,8 +62,6 @@ module.exports = function productReviews () {
 }
 ```
 
-6. Finally, create a pull request against the main branch and allow CodeQL to finish scanning for the vulnerability 
 <img width="955" alt="image" src="https://github.com/jackgkafaty/GitHub_TestRepo/assets/50452463/8029a446-fed4-4d83-8380-fd387bdc7c31">
 
-7. Once completed you should be able to see the vulnerability appear! Now try fixing it using Copilot!
-<img width="955" alt="image" src="https://github.com/jackgkafaty/GitHub_TestRepo/assets/50452463/bd0adc6e-66f9-489b-ae05-317012b68534">
+
